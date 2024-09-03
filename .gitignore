@@ -1,4 +1,4 @@
 .idea
-.venv
+venv
 data/*.db
 pdfs_tmp/*.pdf
